@@ -1,4 +1,4 @@
-# 📘 18-exercicios-typescript
+# 📘 18 Exercicios TypeScript
 
 Projeto desenvolvido em TypeScript com o objetivo de treinar lógica de programação através de um menu interativo no terminal.  
 Cada opção do menu leva a um exercício diferente, permitindo que o usuário escolha e execute conforme desejar.
@@ -34,7 +34,7 @@ Cada opção do menu leva a um exercício diferente, permitindo que o usuário e
 ### 1️⃣ Clone o repositório
 
 ```
-git clone https://github.com/seu-usuario/18-exercicios-typescript.git
+git clone https://github.com/ericklimagg/18-exercicios-typescript.git
 ```
 
 Ou faça o download como ZIP e extraia.
@@ -62,24 +62,6 @@ npx tsc
 ```
 node dist/index.js
 ```
-
----
-
-## 📁 Estrutura do projeto
-
-```
-📦18-exercicios-typescript
- ┣ 📂src
- ┃ ┣ 📜index.ts          → Arquivo principal com o menu
- ┃ ┣ 📜exercises.ts      → Funções dos exercícios
- ┃ ┗ 📜utils.ts          → Funções auxiliares (se houver)
- ┣ 📂dist                → Arquivos compilados em JavaScript
- ┣ 📜package.json
- ┣ 📜tsconfig.json
- ┣ 📜README.md
-```
-
----
 
 ## ⚙️ Scripts (recomendado)
 
